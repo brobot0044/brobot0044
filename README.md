@@ -63,4 +63,4 @@ _Small Side projects:_
 ----
 ## 📊 GitHub Stats
 
-![Streak Stats](https://streak-stats.demolab.com?user=brobot00444&theme=dark&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=brobot0044&theme=dark&hide_border=true)](https://git.io/streak-stats)
