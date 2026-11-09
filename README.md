@@ -48,14 +48,15 @@ _Simple random number, coin, dice, and decision generator._
 
 _Small Side projects:_
 
-- 🐟 **[Creation Brand](https://creationbranddemo.vercel.app/)** _- A prototype for a customer that ended up not wanting it. Just want to show it off and not put it to waste._
-- 🚣 **[Raft Progress Tracker](https://raft-progress-tracker.vercel.app/)** _- A simple raft progress tracker for Story, Notes, Research, Characters, Animals, Paintings, and Achievements._
 - 🟢 **[Pokémon Emerald Tracker](https://pokemon-emerald-progress-tracker.vercel.app/)** _- Track your Pokémon Emerald progress, badges, and Pokédex._
+- 🚣 **[Raft Progress Tracker](https://raft-progress-tracker.vercel.app/)** _- A simple raft progress tracker for Story, Notes, Research, Characters, Animals, Paintings, and Achievements._
 - 🎰 **[Casino Trainer](https://test-test-five-wheat.vercel.app/)** _- Practice and train for casino games._
+- 🐟 **[Creation Brand](https://creationbranddemo.vercel.app/)** _- A prototype for a customer that ended up not wanting it. Just want to show it off and not put it to waste._
 - 💀 **[Mors Team Website](https://mors-team-website.vercel.app/)** _- Explore trending game cheats, mod tools, and exploits across top games!_ ([Discord](https://dsc.gg/morsteam))
+- 💬 **[Comment Cleaner](https://comment-cleaner.vercel.app/)** _- Removes comments from your code._
+- 📋 **[Boardly](https://boardly-pink.vercel.app/)** _- A simplified copy of Trello._
 - 🍔 **[Cookout Clues Cheat Sheat](https://cook-out-clues-cheat-cheat.vercel.app/)** _- A cheat cheat For Cookout Clues._
 - 💡 **[Think Tank Cheat Sheet](https://think-tank-gilt.vercel.app/)** _- A cheat cheat for Think Tank._
-- 💬 **[Comment Cleaner](https://comment-cleaner.vercel.app/)** _- Removes comments from your code._
 - 🏦 **[Bank Simulator](https://bank-simulator-green.vercel.app/)** _- A simple bank dice game simulator._
 - 🃏 **[BS Card Game Simulation](https://venomousrhyme41.github.io/BS-card-game-Simulation/)** _- Simulation of the BS card game._
 - 🗺️ **[MapartCraft Materials and Price](https://greasyfork.org/en/scripts/593936-mapartcraft-materials-and-price)** _- Materials and price calculator for Minecraft map art._
