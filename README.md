@@ -55,6 +55,10 @@ _Small side projects:_
 - 🃏 **[BS Card Game Simulation](https://venomousrhyme41.github.io/BS-card-game-Simulation/)** _- Simulation of the BS card game._
 - 🗺️ **[MapartCraft Materials and Price](https://greasyfork.org/en/scripts/593936-mapartcraft-materials-and-price)** _- Materials and price calculator for Minecraft map art._
 
+### Stats on my projects
+- 🔄 **[Update list](https://updatelist.vercel.app/)** _- A curated list of my websites with all their latest updates in one place._
+- ⏱️ **[Uptime Tracker](https://uptime-rho-wine.vercel.app/)** _- A simple uptime monitor for my sites that also keeps Supabase projects alive._
+
 ----
 ## 📊 GitHub Stats
 
